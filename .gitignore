@@ -7,3 +7,4 @@ xcuserdata
 __pycache__
 swift-frontend/build
 .venv
+agent/.venv/
